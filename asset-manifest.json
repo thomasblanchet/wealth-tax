@@ -1,13 +1,13 @@
 {
-  "main.css": "/long-run-wealth-tax-simulator/static/css/main.d315125f.chunk.css",
-  "main.js": "/long-run-wealth-tax-simulator/static/js/main.e5255aff.chunk.js",
-  "main.js.map": "/long-run-wealth-tax-simulator/static/js/main.e5255aff.chunk.js.map",
-  "static/js/1.55c6df13.chunk.js": "/long-run-wealth-tax-simulator/static/js/1.55c6df13.chunk.js",
-  "static/js/1.55c6df13.chunk.js.map": "/long-run-wealth-tax-simulator/static/js/1.55c6df13.chunk.js.map",
-  "runtime~main.js": "/long-run-wealth-tax-simulator/static/js/runtime~main.4ba5094c.js",
-  "runtime~main.js.map": "/long-run-wealth-tax-simulator/static/js/runtime~main.4ba5094c.js.map",
-  "static/css/main.d315125f.chunk.css.map": "/long-run-wealth-tax-simulator/static/css/main.d315125f.chunk.css.map",
-  "index.html": "/long-run-wealth-tax-simulator/index.html",
-  "precache-manifest.3a05db81d8bac99c180d46fd1140904c.js": "/long-run-wealth-tax-simulator/precache-manifest.3a05db81d8bac99c180d46fd1140904c.js",
-  "service-worker.js": "/long-run-wealth-tax-simulator/service-worker.js"
+  "main.css": "/wealth-tax/static/css/main.d315125f.chunk.css",
+  "main.js": "/wealth-tax/static/js/main.e5255aff.chunk.js",
+  "main.js.map": "/wealth-tax/static/js/main.e5255aff.chunk.js.map",
+  "static/js/1.55c6df13.chunk.js": "/wealth-tax/static/js/1.55c6df13.chunk.js",
+  "static/js/1.55c6df13.chunk.js.map": "/wealth-tax/static/js/1.55c6df13.chunk.js.map",
+  "runtime~main.js": "/wealth-tax/static/js/runtime~main.a9f60e2e.js",
+  "runtime~main.js.map": "/wealth-tax/static/js/runtime~main.a9f60e2e.js.map",
+  "static/css/main.d315125f.chunk.css.map": "/wealth-tax/static/css/main.d315125f.chunk.css.map",
+  "index.html": "/wealth-tax/index.html",
+  "precache-manifest.446fe44fdb56cca7b7d172b0f3b0cc0f.js": "/wealth-tax/precache-manifest.446fe44fdb56cca7b7d172b0f3b0cc0f.js",
+  "service-worker.js": "/wealth-tax/service-worker.js"
 }

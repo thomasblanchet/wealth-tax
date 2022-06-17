@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/long-run-wealth-tax-simulator/precache-manifest.3a05db81d8bac99c180d46fd1140904c.js"
+  "/wealth-tax/precache-manifest.446fe44fdb56cca7b7d172b0f3b0cc0f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/long-run-wealth-tax-simulator/index.html", {
+workbox.routing.registerNavigationRoute("/wealth-tax/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
