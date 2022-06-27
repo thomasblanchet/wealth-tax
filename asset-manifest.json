@@ -1,13 +1,13 @@
 {
-  "main.css": "/wealth-tax/static/css/main.3aeb8525.chunk.css",
-  "main.js": "/wealth-tax/static/js/main.dd86b5e7.chunk.js",
-  "main.js.map": "/wealth-tax/static/js/main.dd86b5e7.chunk.js.map",
+  "main.css": "/wealth-tax/static/css/main.57d5b900.chunk.css",
+  "main.js": "/wealth-tax/static/js/main.d3c12646.chunk.js",
+  "main.js.map": "/wealth-tax/static/js/main.d3c12646.chunk.js.map",
   "static/js/1.55c6df13.chunk.js": "/wealth-tax/static/js/1.55c6df13.chunk.js",
   "static/js/1.55c6df13.chunk.js.map": "/wealth-tax/static/js/1.55c6df13.chunk.js.map",
   "runtime~main.js": "/wealth-tax/static/js/runtime~main.a9f60e2e.js",
   "runtime~main.js.map": "/wealth-tax/static/js/runtime~main.a9f60e2e.js.map",
-  "static/css/main.3aeb8525.chunk.css.map": "/wealth-tax/static/css/main.3aeb8525.chunk.css.map",
+  "static/css/main.57d5b900.chunk.css.map": "/wealth-tax/static/css/main.57d5b900.chunk.css.map",
   "index.html": "/wealth-tax/index.html",
-  "precache-manifest.fd99b6a00a1f6056ec5b0835dc8f1a0f.js": "/wealth-tax/precache-manifest.fd99b6a00a1f6056ec5b0835dc8f1a0f.js",
+  "precache-manifest.f09d37823d625f31d380f9b35c80a780.js": "/wealth-tax/precache-manifest.f09d37823d625f31d380f9b35c80a780.js",
   "service-worker.js": "/wealth-tax/service-worker.js"
 }
