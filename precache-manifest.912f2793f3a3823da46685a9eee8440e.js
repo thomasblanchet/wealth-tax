@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "42a22b900749f392325f",
+    "revision": "e53f7fc41f69183fd8ac",
     "url": "/wealth-tax/static/css/main.57d5b900.chunk.css"
   },
   {
-    "revision": "42a22b900749f392325f",
-    "url": "/wealth-tax/static/js/main.42a22b90.chunk.js"
+    "revision": "e53f7fc41f69183fd8ac",
+    "url": "/wealth-tax/static/js/main.e53f7fc4.chunk.js"
   },
   {
     "revision": "55c6df1352b08f3babb0",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/wealth-tax/static/js/runtime~main.a9f60e2e.js"
   },
   {
-    "revision": "af420a6aa8d57f18f0c9ff6733a6673b",
+    "revision": "df0825c0bc62e300d4d263e15b751db8",
     "url": "/wealth-tax/index.html"
   }
 ];
