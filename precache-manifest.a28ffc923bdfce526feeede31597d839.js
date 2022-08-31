@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/wealth-tax/static/js/runtime~main.a9f60e2e.js"
   },
   {
-    "revision": "45855a4c54fa5e22876498b737968107",
+    "revision": "03b5c443c2171bf4d72034d04076c876",
     "url": "/wealth-tax/index.html"
   }
 ];
