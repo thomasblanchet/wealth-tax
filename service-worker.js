@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/wealth-tax/precache-manifest.924473594eda4adb2260f168c5e1074e.js"
+  "/wealth-tax/precache-manifest.0c340d66e3d4093887b87ee9f438e653.js"
 );
 
 workbox.clientsClaim();
